@@ -1,0 +1,16 @@
+
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+*.log
+*.DS_Store
+*.pdb
+*.cache
+*.ide
+*.sln
+*.csproj
